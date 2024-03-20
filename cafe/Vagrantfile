@@ -75,6 +75,5 @@ Vagrant.configure("2") do |config|
      systemctl restart httpd
      cd /tmp/
      rm -rf /tmp/cafe
-
    SHELL
 end
